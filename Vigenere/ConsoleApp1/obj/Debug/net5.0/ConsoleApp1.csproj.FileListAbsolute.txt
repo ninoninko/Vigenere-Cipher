@@ -1,0 +1,32 @@
+D:\ТУ София\3 курс\Криптография\Задача\Vigenere\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+D:\ТУ София\3 курс\Криптография\Задача\Vigenere\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+D:\ТУ София\3 курс\Криптография\Задача\Vigenere\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+D:\ТУ София\3 курс\Криптография\Задача\Vigenere\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+D:\ТУ София\3 курс\Криптография\Задача\Vigenere\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+D:\ТУ София\3 курс\Криптография\Задача\Vigenere\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+D:\ТУ София\3 курс\Криптография\Задача\Vigenere\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\ТУ София\3 курс\Криптография\Задача\Vigenere\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ТУ София\3 курс\Криптография\Задача\Vigenere\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\ТУ София\3 курс\Криптография\Задача\Vigenere\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+D:\ТУ София\3 курс\Криптография\Задача\Vigenere\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\ТУ София\3 курс\Криптография\Задача\Vigenere\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+D:\ТУ София\3 курс\Криптография\Задача\Vigenere\ConsoleApp1\obj\Debug\net5.0\refint\ConsoleApp1.dll
+D:\ТУ София\3 курс\Криптография\Задача\Vigenere\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+D:\ТУ София\3 курс\Криптография\Задача\Vigenere\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+D:\ТУ София\3 курс\Криптография\Задача\Vigenere\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+D:\Zadacha\Vigenere\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+D:\Zadacha\Vigenere\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+D:\Zadacha\Vigenere\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+D:\Zadacha\Vigenere\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+D:\Zadacha\Vigenere\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+D:\Zadacha\Vigenere\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+D:\Zadacha\Vigenere\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Zadacha\Vigenere\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zadacha\Vigenere\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Zadacha\Vigenere\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+D:\Zadacha\Vigenere\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Zadacha\Vigenere\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+D:\Zadacha\Vigenere\ConsoleApp1\obj\Debug\net5.0\refint\ConsoleApp1.dll
+D:\Zadacha\Vigenere\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+D:\Zadacha\Vigenere\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+D:\Zadacha\Vigenere\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
